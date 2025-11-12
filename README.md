@@ -35,16 +35,14 @@ The Simon Game is a fun and challenging memory game where players must follow an
 
 ## Project Structure
 
-```
 Simon-Game/
-├── index.html       # Main HTML file
-├── game.js          # Game logic and functionality
-├── styles.css       # Styling and animations
-├── images/          # Game images and preview
-│   └── Preview.jpg  # Project preview image
-├── sounds/          # Audio files for game sounds
-└── README.md        # This file
-```
+├── index.html # Main HTML file
+├── game.js # Game logic and functionality
+├── styles.css # Styling and animations
+├── images/ # Game images and preview
+│ └── Preview.jpg # Project preview image
+├── sounds/ # Audio files for game sounds
+└── README.md # This file
 
 ## Installation
 
@@ -78,8 +76,6 @@ Simon-Game/
 - Score persistence with local storage
 
 ## Author
-
-**WailHassan**
 
 - GitHub: [https://github.com/wailhassan](https://github.com/wailhassan)
 
